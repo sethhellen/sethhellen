@@ -1,7 +1,7 @@
 # Hellen Seth
 
 **Senior Graphic Designer · Digital Strategist · Scrum Master**  
-Content & Marketing Lead @ [Digital Qatalyst](https://digitalqatalyst.com) · Nairobi, Kenya 🇰🇪
+Content & Marketing · Nairobi, Kenya 🇰🇪
 
 ---
 
@@ -42,7 +42,7 @@ My work lives at the intersection of **visual identity**, **content strategy**, 
 
 ## Currently
 
-- 🏗️ Leading content & marketing at **Digital Qatalyst** — delivering transformation strategy for enterprise clients across the GCC
+- 🏗️ Leading content & marketing at — delivering transformation strategy for enterprise clients across the GCC
 - 🌍 Exploring remote-first opportunities with global product teams
 - 🚗 Building side projects at the intersection of design and technology
 
